@@ -5,3 +5,4 @@ This is a simple loan calculator project. Good for beginner to practice DOM,FUNC
 - User enter Loan Amount, Interest and Years to Repay
 - Then the application display Monthyly Payment, Total Payment and Total interest.
  
+ 
